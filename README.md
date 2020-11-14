@@ -204,7 +204,7 @@ Describe any challenges encountered while building the app.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-# Project 2 - *Name of App Here*
+# Project 2 - *Ogenna_Esimai_Simple_Tweet2_Part2_*
 
 **Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
